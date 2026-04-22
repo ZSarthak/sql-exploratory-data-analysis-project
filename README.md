@@ -6,5 +6,6 @@ We perform Data Exploration, Dimension Exploration, Date Exploration, Measures E
 ==================================================================
 
 About Me:
+  
   I am an aspiring Data Analyst and this is my first project. Through projects, I hope to learn more about Data Analysis and progress in my career.
   LinkedIn - https://www.linkedin.com/in/sarthak-singh-chauhan/
